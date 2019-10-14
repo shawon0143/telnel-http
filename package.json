@@ -1,0 +1,16 @@
+{
+    "name": "telnet-http",
+    "version": "1.0.0",
+    "description": "A simple tool to make http request with telnet",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^12.7.11",
+        "shelljs": "^0.8.3",
+        "telnet-client": "^1.2.0"
+    },
+    "devDependencies": {}
+}
